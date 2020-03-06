@@ -1,12 +1,10 @@
 namespace circuitplayground {
     //% fixedInstance jres blockIdentity=image.__imagePicker
-    export const Adabot = image.ofBuffer(hex``);
+    export const DANCE1 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=image.__imagePicker
-    export const Blinka = image.ofBuffer(hex``);
+    export const DANCE2 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=image.__imagePicker
-    export const Mho = image.ofBuffer(hex``);
+    export const DANCE3 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=image.__imagePicker
-    export const Minerva = image.ofBuffer(hex``);
-    //% fixedInstance jres blockIdentity=image.__imagePicker
-    export const Sparky = image.ofBuffer(hex``);
+    export const DANCE4 = image.ofBuffer(hex``);
 }
