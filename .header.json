@@ -1,0 +1,18 @@
+{
+    "target": "arcade",
+    "targetVersion": "0.15.16",
+    "name": "pxt-circuit-playground-character-icons",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "1807f5bc-5a25-4c97-6313-6abf6bc02fb3",
+    "recentUse": 1583480758,
+    "modificationTime": 1583480758,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "Circuit-Playground-Character-Icons"
+}
