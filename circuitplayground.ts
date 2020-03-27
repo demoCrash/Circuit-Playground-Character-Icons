@@ -56,6 +56,8 @@ namespace circuitplayground {
     //% fixedInstance jres blockIdentity=image.__imagePicker
     export const door9 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=image.__imagePicker
+    export const eye_b6 = image.ofBuffer(hex``);
+    //% fixedInstance jres blockIdentity=image.__imagePicker
     export const FE1 = image.ofBuffer(hex``);
     //% fixedInstance jres blockIdentity=image.__imagePicker
     export const FE2 = image.ofBuffer(hex``);
