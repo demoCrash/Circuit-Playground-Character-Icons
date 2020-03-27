@@ -1,6 +1,6 @@
 {
     "name": "pxt-circuit-playground-character-icons",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "description": "Images from Adafruit",
     "license": "MIT",
     "dependencies": {
